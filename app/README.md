@@ -106,11 +106,6 @@ We welcome contributions! Fork the repository, make changes, and open a pull req
 
 ---
 
-## 📧 Contact
-
-Created by **Abdul Moiz**  
-- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
-- Email: [abdulmoiz8895@gmail.com](abdulmoiz8895@gmail.com)
 
 ---
 
